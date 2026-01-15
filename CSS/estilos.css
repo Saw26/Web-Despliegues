@@ -125,7 +125,7 @@ main {
     display: flex;
     align-items: stretch;
     justify-content: center;
-    background-image: url("https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc6y2q.jpg");
+    background-image: url("../img/skyrimlogo.jpg");
     background-size: cover;
     background-position: center;
 }
